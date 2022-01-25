@@ -83,7 +83,7 @@ def geraGrafico(lista):
                 shadow=True,
                 startangle=90)
         ax1.axis('equal')
-
+        print(labels)
         plt.show()
 
 
